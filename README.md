@@ -1,4 +1,4 @@
-# 🖩 Python Tkinter Division App
+# Python Tkinter Division App
 
 A simple GUI calculator built with **Python** and **Tkinter** that divides two numbers and shows the result in a popup window.
 
